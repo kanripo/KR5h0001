@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 03:00:47.159348
 #+TITLE: 太上中道妙法蓮華經
-#+DATE: 2015-08-29 03:00:50
+#+PROPERTY: DZID  DZ1432
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—558 十卷 續道藏
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
